@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T01:54:32.019Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="EMLbTdiAUrhWheq3NoVF" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-18T23:53:25.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="FolrFglCOYJqubbFL5DZ" version="14.1.8" type="github" pages="2">
   <diagram id="pbeZoy0zFY18ytzWNU6J" name="Page-1">
-    <mxGraphModel dx="1186" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,6 +129,24 @@
         </mxCell>
         <mxCell id="qllXOoGlRM_vR86KcUKt-15" value="Scalability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qllXOoGlRM_vR86KcUKt-1">
           <mxGeometry x="320" y="920" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qllXOoGlRM_vR86KcUKt-16" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.file_system_browser;" vertex="1" parent="qllXOoGlRM_vR86KcUKt-1">
+          <mxGeometry x="240" y="235.2" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
+        <mxCell id="qllXOoGlRM_vR86KcUKt-17" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BC1356;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.logs;" vertex="1" parent="qllXOoGlRM_vR86KcUKt-1">
+          <mxGeometry x="240" y="600" width="53.79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qllXOoGlRM_vR86KcUKt-18" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.alert;" vertex="1" parent="qllXOoGlRM_vR86KcUKt-1">
+          <mxGeometry x="240" y="683.4" width="33.2" height="33.2" as="geometry" />
+        </mxCell>
+        <mxCell id="qllXOoGlRM_vR86KcUKt-19" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.code_file" vertex="1" parent="qllXOoGlRM_vR86KcUKt-1">
+          <mxGeometry x="691" y="470" width="49" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wciZgFY7Gsaek3FuukXp-0" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/User_Privacy.svg;" vertex="1" parent="qllXOoGlRM_vR86KcUKt-1">
+          <mxGeometry x="240" y="760" width="37.65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wciZgFY7Gsaek3FuukXp-1" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.bucket_scale" vertex="1" parent="qllXOoGlRM_vR86KcUKt-1">
+          <mxGeometry x="228.26999999999998" y="920" width="49.38" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
