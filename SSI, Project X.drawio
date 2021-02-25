@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T22:01:26.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="9RQoeFstdC7Gh3Gt1sYW" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-25T22:05:46.474Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="3i83O-1Wm0M0e6VVxkoj" version="14.1.8" type="github" pages="2">
   <diagram id="YpqIKFrISRScb29nHZe1" name="EESS">
     <mxGraphModel dx="3252" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -259,9 +259,9 @@
             <mxPoint x="335" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f6MYHTTue-PdEQQlurJt-79" value="DIMSE&lt;br&gt;CDIP&lt;br&gt;HL7 FHIR&lt;br&gt;HL7 v2&lt;br&gt;HL7 CDA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="f6MYHTTue-PdEQQlurJt-78" vertex="1" connectable="0">
+        <mxCell id="f6MYHTTue-PdEQQlurJt-79" value="Xtension&lt;br&gt;CDIP&lt;br&gt;FHIR&lt;br&gt;HL7&lt;br&gt;DIMSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="f6MYHTTue-PdEQQlurJt-78" vertex="1" connectable="0">
           <mxGeometry x="0.3327" y="2" relative="1" as="geometry">
-            <mxPoint x="63.05000000000001" y="-0.25" as="offset" />
+            <mxPoint x="29.000000000000014" y="-2.0700000000000003" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f6MYHTTue-PdEQQlurJt-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.012;exitY=0.064;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#788AA3;" parent="CKca1dezpxZWgN35Yr3S-1" source="f6MYHTTue-PdEQQlurJt-22" target="f6MYHTTue-PdEQQlurJt-70" edge="1">
@@ -353,7 +353,7 @@
         </mxCell>
         <mxCell id="f6MYHTTue-PdEQQlurJt-105" value="Point solutions of today" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=14;" parent="f6MYHTTue-PdEQQlurJt-104" vertex="1" connectable="0">
           <mxGeometry x="0.6727" y="2" relative="1" as="geometry">
-            <mxPoint x="2" y="-6.549999999999997" as="offset" />
+            <mxPoint x="18.3" y="-17.029999999999998" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f6MYHTTue-PdEQQlurJt-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;" parent="CKca1dezpxZWgN35Yr3S-1" source="f6MYHTTue-PdEQQlurJt-90" target="f6MYHTTue-PdEQQlurJt-113" edge="1">
@@ -362,9 +362,9 @@
             <mxPoint x="1921" y="1013.9000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oq4MwHIWCv4n04SFxorY-57" value="Orchestrated &lt;br&gt;solutions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#46495D;labelBackgroundColor=none;" parent="f6MYHTTue-PdEQQlurJt-110" vertex="1" connectable="0">
+        <mxCell id="Oq4MwHIWCv4n04SFxorY-57" value="Orchestrated &lt;br&gt;solutions" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="f6MYHTTue-PdEQQlurJt-110" vertex="1" connectable="0">
           <mxGeometry x="0.2312" y="3" relative="1" as="geometry">
-            <mxPoint x="14.05" y="22" as="offset" />
+            <mxPoint x="22.900000000000002" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f6MYHTTue-PdEQQlurJt-120" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fillColor=#B2C9AB;fontColor=#46495D;" parent="CKca1dezpxZWgN35Yr3S-1" source="f6MYHTTue-PdEQQlurJt-113" target="f6MYHTTue-PdEQQlurJt-102" edge="1">
@@ -443,7 +443,7 @@
         <mxCell id="Oq4MwHIWCv4n04SFxorY-17" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fillColor=#B2C9AB;fontColor=#46495D;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="CKca1dezpxZWgN35Yr3S-1" source="Oq4MwHIWCv4n04SFxorY-16" target="CKca1dezpxZWgN35Yr3S-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Oq4MwHIWCv4n04SFxorY-27" value="Build" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#46495D;fontSize=14;" parent="Oq4MwHIWCv4n04SFxorY-17" vertex="1" connectable="0">
+        <mxCell id="Oq4MwHIWCv4n04SFxorY-27" value="Build" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#46495D;fontSize=14;labelBackgroundColor=none;" parent="Oq4MwHIWCv4n04SFxorY-17" vertex="1" connectable="0">
           <mxGeometry x="-0.069" y="1" relative="1" as="geometry">
             <mxPoint x="-1.2" y="35.35" as="offset" />
           </mxGeometry>
@@ -581,6 +581,9 @@
         </mxCell>
         <mxCell id="QaGD_uPWOsOW94elyE0i-5" value="&quot;to be the simple and quick integration platform to create new AI, non-AI based workflows &lt;br style=&quot;font-size: 22px&quot;&gt;using solutions from GE&#39;s catalog&quot;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=none;fontSize=22;fontStyle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="CKca1dezpxZWgN35Yr3S-1">
           <mxGeometry x="-196.2" y="1522" width="952" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QaGD_uPWOsOW94elyE0i-8" value="Feedback" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/business-management-1-8/256/b-34-128.png;fillColor=#E1D5E7;imageBackground=#FFCC99;" vertex="1" parent="CKca1dezpxZWgN35Yr3S-1">
+          <mxGeometry x="1103.5" y="1319.61" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
