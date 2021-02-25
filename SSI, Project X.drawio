@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T07:03:23.777Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="RIz9So5J0c_dI3_PBGW3" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-25T18:00:26.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="Z8bGvSElOCVhLWWMFSwM" version="14.1.8" type="github" pages="2">
   <diagram id="YpqIKFrISRScb29nHZe1" name="EESS">
     <mxGraphModel dx="2772" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
         <mxCell id="f6MYHTTue-PdEQQlurJt-34" value="AO reviews and routes &lt;br&gt;AI output to sources" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
           <mxGeometry x="162" y="1282" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f6MYHTTue-PdEQQlurJt-35" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Edison&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Orchestrator&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
+        <mxCell id="f6MYHTTue-PdEQQlurJt-35" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Edison&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Orchestrator&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;fontColor=#333333;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
           <mxGeometry x="206.3" y="1409" width="165" height="23" as="geometry" />
         </mxCell>
         <mxCell id="f6MYHTTue-PdEQQlurJt-36" value="EMR" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/medical-207/32/Artboard_15-128.png;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
@@ -110,8 +110,8 @@
         <mxCell id="f6MYHTTue-PdEQQlurJt-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
           <mxGeometry x="127.8" y="894.95" width="51" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="f6MYHTTue-PdEQQlurJt-40" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;GE Cloud Gateway to EESS /&lt;br style=&quot;font-size: 16px;&quot;&gt;3rd Party Application&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
-          <mxGeometry x="544.35" y="1407" width="229" height="42" as="geometry" />
+        <mxCell id="f6MYHTTue-PdEQQlurJt-40" value="&lt;span style=&quot;font-size: 16px&quot;&gt;GE Cloud Gateway &amp;nbsp;/&lt;br style=&quot;font-size: 16px&quot;&gt;3P Apps&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;fontColor=#333333;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
+          <mxGeometry x="576.35" y="1407" width="166" height="42" as="geometry" />
         </mxCell>
         <mxCell id="f6MYHTTue-PdEQQlurJt-41" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="CKca1dezpxZWgN35Yr3S-1" source="f6MYHTTue-PdEQQlurJt-47" target="f6MYHTTue-PdEQQlurJt-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -137,7 +137,7 @@
         <mxCell id="f6MYHTTue-PdEQQlurJt-47" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=0" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
           <mxGeometry x="589.85" y="1245.36" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="f6MYHTTue-PdEQQlurJt-48" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Source Systems&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
+        <mxCell id="f6MYHTTue-PdEQQlurJt-48" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Source Systems&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;fontColor=#333333;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
           <mxGeometry x="-174" y="1413.79" width="135" height="23" as="geometry" />
         </mxCell>
         <mxCell id="f6MYHTTue-PdEQQlurJt-49" value="Event" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
@@ -332,7 +332,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="f6MYHTTue-PdEQQlurJt-101" value="GEHC &amp;nbsp;Health Cloud&amp;nbsp;&lt;br style=&quot;font-size: 16px;&quot;&gt;Hosted Ecosystem S/PAAS" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;fontSize=16;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
+        <mxCell id="f6MYHTTue-PdEQQlurJt-101" value="GEHC Health Cloud&amp;nbsp;&lt;br style=&quot;font-size: 16px&quot;&gt;Ecosystem S/PAAS" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.cloud;fontSize=16;fontStyle=1;fontColor=#333333;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
           <mxGeometry x="1603.92" y="1375" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f6MYHTTue-PdEQQlurJt-102" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
@@ -395,11 +395,11 @@
         <mxCell id="Oq4MwHIWCv4n04SFxorY-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
           <mxGeometry x="2040" y="1095" width="200" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="Oq4MwHIWCv4n04SFxorY-3" value="&lt;b style=&quot;font-size: 16px&quot;&gt;Ecosystem&lt;br style=&quot;font-size: 16px&quot;&gt;Integration/development platform&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#46495D;fontSize=16;dashed=1;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
+        <mxCell id="Oq4MwHIWCv4n04SFxorY-3" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Ecosystem&lt;br style=&quot;font-size: 16px&quot;&gt;Integration/development platform&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=16;dashed=1;fontStyle=1;fontColor=#333333;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
           <mxGeometry x="1851" y="1415" width="290" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Oq4MwHIWCv4n04SFxorY-4" value="&lt;b&gt;Cloud Ecosystem&lt;br style=&quot;font-size: 16px&quot;&gt;(Serving Platform)&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#46495D;fontSize=16;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
-          <mxGeometry x="1166.5" y="1413.79" width="187" height="20" as="geometry" />
+        <mxCell id="Oq4MwHIWCv4n04SFxorY-4" value="&lt;span&gt;Cloud Ecosystem&lt;br style=&quot;font-size: 16px&quot;&gt;(Serving Platform)&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=16;fontStyle=1;fontColor=#333333;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
+          <mxGeometry x="1153" y="1418" width="187" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Oq4MwHIWCv4n04SFxorY-5" value="Portal" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Management_Portal.svg;rounded=0;labelBackgroundColor=none;sketch=0;strokeColor=#788AA3;fillColor=none;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
           <mxGeometry x="2067" y="1075.25" width="60" height="48" as="geometry" />
@@ -530,7 +530,7 @@
         <mxCell id="Oq4MwHIWCv4n04SFxorY-68" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.document;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=16;fontColor=#46495D;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
           <mxGeometry x="2174.7599999999998" y="1318.58" width="32.57" height="40.71" as="geometry" />
         </mxCell>
-        <mxCell id="Oq4MwHIWCv4n04SFxorY-70" value="EHL" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;labelBackgroundColor=none;sketch=0;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
+        <mxCell id="Oq4MwHIWCv4n04SFxorY-70" value="EHL" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
           <mxGeometry x="393.99999999999994" y="1393" width="30.7" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Oq4MwHIWCv4n04SFxorY-71" value="3P Apps" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" parent="CKca1dezpxZWgN35Yr3S-1" vertex="1">
@@ -566,8 +566,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QaGD_uPWOsOW94elyE0i-0" value="Telemed" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" vertex="1" parent="CKca1dezpxZWgN35Yr3S-1">
-          <mxGeometry x="800" y="1316.79" width="90.21" height="90.21" as="geometry" />
+        <mxCell id="QaGD_uPWOsOW94elyE0i-0" value="&lt;b&gt;Telemed, &lt;br&gt;Cohorts apps&lt;/b&gt;" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=16;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" vertex="1" parent="CKca1dezpxZWgN35Yr3S-1">
+          <mxGeometry x="800" y="1312.79" width="90.21" height="90.21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
