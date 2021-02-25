@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T21:06:46.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="7k3aK7mh9625ZLlk6jSA" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-25T22:01:26.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="9RQoeFstdC7Gh3Gt1sYW" version="14.1.8" type="github" pages="2">
   <diagram id="YpqIKFrISRScb29nHZe1" name="EESS">
     <mxGraphModel dx="3252" dy="1224" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -572,6 +572,15 @@
         </mxCell>
         <mxCell id="QaGD_uPWOsOW94elyE0i-2" value="EHL" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;" vertex="1" parent="CKca1dezpxZWgN35Yr3S-1">
           <mxGeometry x="728.5" y="1391" width="30.7" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QaGD_uPWOsOW94elyE0i-3" value="&quot;to be single and only channel of integration for external partners&lt;br style=&quot;font-size: 22px&quot;&gt;to integrate their solutions with GE modalities and platforms&quot;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=none;fontSize=22;fontStyle=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="CKca1dezpxZWgN35Yr3S-1">
+          <mxGeometry x="1650" y="1522" width="632" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QaGD_uPWOsOW94elyE0i-4" value="&quot;to be the largest and diverse collection of 3P and GE built &lt;br style=&quot;font-size: 22px&quot;&gt;AI and non-AI solutions&quot;&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=none;fontSize=22;fontStyle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="CKca1dezpxZWgN35Yr3S-1">
+          <mxGeometry x="906" y="1522" width="704" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QaGD_uPWOsOW94elyE0i-5" value="&quot;to be the simple and quick integration platform to create new AI, non-AI based workflows &lt;br style=&quot;font-size: 22px&quot;&gt;using solutions from GE&#39;s catalog&quot;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=none;fontSize=22;fontStyle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="CKca1dezpxZWgN35Yr3S-1">
+          <mxGeometry x="-196.2" y="1522" width="952" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
