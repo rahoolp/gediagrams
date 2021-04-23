@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T23:48:56.858Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="7zurx8QS3hQscjWDjgaZ" version="14.1.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-23T03:31:33.278Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="mbh9yrf_ZT1RgW7cfJfL" version="14.1.8" type="github" pages="3">
   <diagram id="E4JydRVpK9uiPk6RM6uE" name="Page-1">
     <mxGraphModel dx="1586" dy="412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -764,12 +764,12 @@
         </mxCell>
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-205" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;" parent="W8lhvCjgB6PEYNRYh-e6-1" target="W8lhvCjgB6PEYNRYh-e6-204" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1054" y="846" as="sourcePoint" />
+            <mxPoint x="1054" y="848" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W8lhvCjgB6PEYNRYh-e6-206" value="Validate &lt;br style=&quot;font-size: 12px;&quot;&gt;Subscription" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=12;" parent="W8lhvCjgB6PEYNRYh-e6-205" vertex="1" connectable="0">
+        <mxCell id="W8lhvCjgB6PEYNRYh-e6-206" value="Validate &lt;br&gt;&lt;br&gt;Subscription" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=12;" parent="W8lhvCjgB6PEYNRYh-e6-205" vertex="1" connectable="0">
           <mxGeometry x="-0.4211" y="-1" relative="1" as="geometry">
-            <mxPoint x="-14.14" y="0.81" as="offset" />
+            <mxPoint x="-16.32" y="0.5999999999999943" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-197" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
@@ -808,8 +808,8 @@
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-208" value="EHS" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
           <mxGeometry x="1230.15" y="1385" width="30.7" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LJeR8HWHGKqPt3yelrTn-0" value="Cloud&amp;nbsp;Connector&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;fontColor=#333333;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
-          <mxGeometry x="897.5000000000001" y="1241.55" width="150" height="20" as="geometry" />
+        <mxCell id="LJeR8HWHGKqPt3yelrTn-0" value="Site Connector&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;fontColor=#333333;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
+          <mxGeometry x="908.5000000000001" y="1240.55" width="128" height="23" as="geometry" />
         </mxCell>
         <mxCell id="0sXZA3P3fkqpEHwGeWpJ-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
           <mxGeometry x="-320" y="1682" width="1940" height="800" as="geometry" />
@@ -1633,6 +1633,12 @@
         </mxCell>
         <mxCell id="J4Lb9DwERjDfSPvm8U4W-8" value="Cloud Ecosystem&lt;span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=16;fontStyle=1;fontColor=#333333;" vertex="1" parent="W8lhvCjgB6PEYNRYh-e6-1">
           <mxGeometry x="1430" y="1505" width="166.35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="m5UeARivQNwk8rpDMp1W-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" vertex="1" parent="W8lhvCjgB6PEYNRYh-e6-1">
+          <mxGeometry x="182" y="1296" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="m5UeARivQNwk8rpDMp1W-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;config, push metrics, logs&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="W8lhvCjgB6PEYNRYh-e6-1">
+          <mxGeometry x="139.50000000000003" y="1312" width="220" height="41.95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
