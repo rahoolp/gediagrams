@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T21:24:18.728Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="gM3iUk7Wbk8KZncQioed" version="14.1.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-04T21:30:11.094Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="z4QRweyFFf6wxr-7nkkd" version="14.1.8" type="github" pages="7">
   <diagram id="E4JydRVpK9uiPk6RM6uE" name="Page-1">
-    <mxGraphModel dx="2124" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -388,7 +388,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C0tBQSBJWNF12Dli-myp" name="On-prem to cloud">
-    <mxGraphModel dx="1607" dy="283" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2814" dy="966" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-0" />
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-1" parent="W8lhvCjgB6PEYNRYh-e6-0" />
@@ -623,13 +623,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-62" value="cPACS / VNA" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=14;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
-          <mxGeometry x="-186" y="854.79" width="68" height="89" as="geometry" />
+          <mxGeometry x="-185" y="912.9499999999999" width="68" height="89" as="geometry" />
         </mxCell>
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-63" value="PACS" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
-          <mxGeometry x="-186" y="965.4499999999999" width="68" height="89" as="geometry" />
+          <mxGeometry x="-185" y="1025" width="68" height="65.11" as="geometry" />
         </mxCell>
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-64" value="RiSI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
-          <mxGeometry x="-187" y="1071" width="70" height="90" as="geometry" />
+          <mxGeometry x="-187" y="1107" width="70" height="54" as="geometry" />
         </mxCell>
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-65" value="Source Systems" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
           <mxGeometry x="-61" y="1013.54" width="60" height="90" as="geometry" />
@@ -1639,6 +1639,9 @@
         </mxCell>
         <mxCell id="m5UeARivQNwk8rpDMp1W-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;config, push metrics, logs&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
           <mxGeometry x="139.50000000000003" y="1312" width="220" height="41.95" as="geometry" />
+        </mxCell>
+        <mxCell id="cMCzZq9LtsWHGVC6j9zQ-0" value="" style="shape=mxgraph.signs.healthcare.mri;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=14;" vertex="1" parent="W8lhvCjgB6PEYNRYh-e6-1">
+          <mxGeometry x="-188.5" y="822" width="70" height="68.45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3126,7 +3129,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ge9TkHmLdsfID08baIXO" name="CT">
-    <mxGraphModel dx="1612" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1612" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="mt3ApnR_kdok1krgxVWL-0" />
         <mxCell id="mt3ApnR_kdok1krgxVWL-1" parent="mt3ApnR_kdok1krgxVWL-0" />
@@ -3196,7 +3199,7 @@
         <mxCell id="LBZISq7XUy24OeiF2VuI-16" value="EHS" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;" vertex="1" parent="mt3ApnR_kdok1krgxVWL-1">
           <mxGeometry x="681.65" y="1393" width="30.7" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LBZISq7XUy24OeiF2VuI-17" value="EHS&lt;br&gt;DICOM" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="mt3ApnR_kdok1krgxVWL-1">
+        <mxCell id="LBZISq7XUy24OeiF2VuI-17" value="PACS" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="mt3ApnR_kdok1krgxVWL-1">
           <mxGeometry x="285" y="1178.29" width="75" height="146" as="geometry" />
         </mxCell>
         <mxCell id="LBZISq7XUy24OeiF2VuI-18" value="Customer Site 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;fontColor=#333333;" vertex="1" parent="mt3ApnR_kdok1krgxVWL-1">
