@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T21:30:11.094Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="z4QRweyFFf6wxr-7nkkd" version="14.1.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-15T19:01:30.019Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="Le155VAxz-PILu4e7JRi" version="14.1.8" type="github" pages="8">
   <diagram id="E4JydRVpK9uiPk6RM6uE" name="Page-1">
-    <mxGraphModel dx="1781" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1367" dy="283" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -388,7 +388,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C0tBQSBJWNF12Dli-myp" name="On-prem to cloud">
-    <mxGraphModel dx="2814" dy="966" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2777" dy="953" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-0" />
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-1" parent="W8lhvCjgB6PEYNRYh-e6-0" />
@@ -1640,14 +1640,14 @@
         <mxCell id="m5UeARivQNwk8rpDMp1W-3" value="&lt;span style=&quot;font-size: 14px&quot;&gt;config, push metrics, logs&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
           <mxGeometry x="139.50000000000003" y="1312" width="220" height="41.95" as="geometry" />
         </mxCell>
-        <mxCell id="cMCzZq9LtsWHGVC6j9zQ-0" value="" style="shape=mxgraph.signs.healthcare.mri;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=14;" vertex="1" parent="W8lhvCjgB6PEYNRYh-e6-1">
+        <mxCell id="cMCzZq9LtsWHGVC6j9zQ-0" value="" style="shape=mxgraph.signs.healthcare.mri;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=14;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
           <mxGeometry x="-188.5" y="822" width="70" height="68.45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="YW7avWpTD3EQy7qAVb_L" name="All cloud">
-    <mxGraphModel dx="2057" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2276" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="1I8wHmme4ZygYNDpazbk-0" />
         <mxCell id="1I8wHmme4ZygYNDpazbk-1" parent="1I8wHmme4ZygYNDpazbk-0" />
@@ -2532,7 +2532,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Yal7JrSlgY0pbdhdJJ7t" name="Pacific">
-    <mxGraphModel dx="2334" dy="966" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1367" dy="283" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="uA-0EtbLH1GTgncrzhlt-0" />
         <mxCell id="uA-0EtbLH1GTgncrzhlt-1" parent="uA-0EtbLH1GTgncrzhlt-0" />
@@ -2905,7 +2905,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XyEuYQtQ9y10j5A2u8Ep" name="Occam">
-    <mxGraphModel dx="1934" dy="966" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="967" dy="283" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="5To5HZb6J3KXONKc1Gc3-0" />
         <mxCell id="5To5HZb6J3KXONKc1Gc3-1" parent="5To5HZb6J3KXONKc1Gc3-0" />
@@ -3122,7 +3122,7 @@
         <mxCell id="x9aaWTZfJmALF_5WvoDt-15" value="UV" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/stop-virus-outline-iconset/128/ic_fluorography-128.png;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="5To5HZb6J3KXONKc1Gc3-1" vertex="1">
           <mxGeometry x="938.8" y="1267" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="MXaU1s7tijuE2IHUSoiw-0" value="CT Recon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;fontColor=#333333;" vertex="1" parent="5To5HZb6J3KXONKc1Gc3-1">
+        <mxCell id="MXaU1s7tijuE2IHUSoiw-0" value="CT Recon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;fontColor=#333333;" parent="5To5HZb6J3KXONKc1Gc3-1" vertex="1">
           <mxGeometry x="1432.6800000000003" y="1374" width="83" height="22" as="geometry" />
         </mxCell>
       </root>
@@ -3340,6 +3340,14 @@
         <mxCell id="LBZISq7XUy24OeiF2VuI-56" value="Occam" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;fontColor=#333333;" vertex="1" parent="mt3ApnR_kdok1krgxVWL-1">
           <mxGeometry x="941.0000000000001" y="1413.79" width="70" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bQnPw1JenZ734ItOzmwL" name="Workbench">
+    <mxGraphModel dx="1426" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="9fr_dAy9p_VevAvOy-FF-0" />
+        <mxCell id="9fr_dAy9p_VevAvOy-FF-1" parent="9fr_dAy9p_VevAvOy-FF-0" />
       </root>
     </mxGraphModel>
   </diagram>
