@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-12T18:24:36.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="uPaSKwSk7JZnIWKKCEs0" version="14.1.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-07-14T22:17:33.387Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="whIvYi0EOZIpwiZivd7I" version="14.1.8" type="github" pages="7">
   <diagram id="E4JydRVpK9uiPk6RM6uE" name="Page-1">
     <mxGraphModel dx="1826" dy="412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1576,9 +1576,9 @@
         <mxCell id="J4Lb9DwERjDfSPvm8U4W-1" value="Single Customer Tenant&lt;span&gt;&lt;br style=&quot;font-size: 16px&quot;&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=16;fontStyle=3;fontColor=#333333;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
           <mxGeometry x="1054.48" y="1480" width="276.35" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="J4Lb9DwERjDfSPvm8U4W-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="W8lhvCjgB6PEYNRYh-e6-1" source="W8lhvCjgB6PEYNRYh-e6-44" edge="1">
+        <mxCell id="J4Lb9DwERjDfSPvm8U4W-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="W8lhvCjgB6PEYNRYh-e6-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="716" y="991.5714285714284" as="sourcePoint" />
+            <mxPoint x="708" y="1005" as="sourcePoint" />
             <mxPoint x="905" y="1005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1697,7 +1697,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YW7avWpTD3EQy7qAVb_L" name="All cloud">
-    <mxGraphModel dx="2528" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2245" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="1I8wHmme4ZygYNDpazbk-0" />
         <mxCell id="1I8wHmme4ZygYNDpazbk-1" parent="1I8wHmme4ZygYNDpazbk-0" />
