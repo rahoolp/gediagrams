@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T17:33:53.031Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="HR8AVRvdY8nvbI4m1-dx" version="14.1.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-08-04T23:43:21.629Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="zunWKfqbYb142bDWoiUc" version="14.1.8" type="github" pages="7">
   <diagram id="E4JydRVpK9uiPk6RM6uE" name="Page-1">
     <mxGraphModel dx="1586" dy="412" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -388,18 +388,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="C0tBQSBJWNF12Dli-myp" name="On-prem to cloud">
-    <mxGraphModel dx="2777" dy="953" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2437" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-0" />
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-1" parent="W8lhvCjgB6PEYNRYh-e6-0" />
         <mxCell id="J4Lb9DwERjDfSPvm8U4W-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
-          <mxGeometry x="838" y="756" width="959" height="771" as="geometry" />
+          <mxGeometry x="838" y="756" width="972" height="771" as="geometry" />
         </mxCell>
         <mxCell id="J4Lb9DwERjDfSPvm8U4W-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#ffffff;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
-          <mxGeometry x="1036" y="800" width="711.5" height="697" as="geometry" />
+          <mxGeometry x="1036" y="800" width="733" height="697" as="geometry" />
         </mxCell>
         <mxCell id="JDNR_27B0tDYEmtFSs5Z-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="W8lhvCjgB6PEYNRYh-e6-1">
-          <mxGeometry x="1634" y="813.55" width="103" height="591.45" as="geometry" />
+          <mxGeometry x="1634" y="813.55" width="116" height="591.45" as="geometry" />
         </mxCell>
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
           <mxGeometry x="-263" y="792" width="1018" height="733" as="geometry" />
@@ -1713,7 +1713,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JDNR_27B0tDYEmtFSs5Z-2" value="PACS&lt;br&gt;Web Service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png" vertex="1" parent="W8lhvCjgB6PEYNRYh-e6-1">
+        <mxCell id="JDNR_27B0tDYEmtFSs5Z-2" value="PACS&lt;br&gt;AI Service" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png" vertex="1" parent="W8lhvCjgB6PEYNRYh-e6-1">
           <mxGeometry x="1663" y="824" width="51" height="51" as="geometry" />
         </mxCell>
         <mxCell id="JDNR_27B0tDYEmtFSs5Z-3" value="Summary&lt;br&gt;Notification" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png" vertex="1" parent="W8lhvCjgB6PEYNRYh-e6-1">
