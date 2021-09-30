@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T15:36:16.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="4GyC_j5nvKmAjF5iQr42" version="15.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T15:39:25.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="7EX3FXQDzyivkABe64Oa" version="15.3.1" type="github">
   <diagram id="V0hJAiqrA1K6axCCMWO3" name="Page-1">
     <mxGraphModel dx="2172" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,8 +66,8 @@
         <mxCell id="EqcilL_sVjriqWDN_Kjl-17" value="EMR" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/medical-207/32/Artboard_15-128.png;" vertex="1" parent="1">
           <mxGeometry x="-192.00000000000006" y="1214.1000000000001" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EqcilL_sVjriqWDN_Kjl-18" value="Connectors" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/42_Bit_Connect-128.png" vertex="1" parent="1">
-          <mxGeometry x="150.00000000000006" y="1038.6" width="40.3" height="40.3" as="geometry" />
+        <mxCell id="EqcilL_sVjriqWDN_Kjl-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/42_Bit_Connect-128.png" vertex="1" parent="1">
+          <mxGeometry x="80.00000000000006" y="1040.04" width="40.3" height="40.3" as="geometry" />
         </mxCell>
         <mxCell id="EqcilL_sVjriqWDN_Kjl-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EqcilL_sVjriqWDN_Kjl-20" target="EqcilL_sVjriqWDN_Kjl-10">
           <mxGeometry relative="1" as="geometry" />
@@ -223,7 +223,7 @@
             <mxPoint x="335" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EqcilL_sVjriqWDN_Kjl-60" value="Xtension&lt;br&gt;CDIP&lt;br&gt;FHIR&lt;br&gt;HL7&lt;br&gt;DIMSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="EqcilL_sVjriqWDN_Kjl-59">
+        <mxCell id="EqcilL_sVjriqWDN_Kjl-60" value="Xtension&lt;br&gt;FHIR&lt;br&gt;HL7&lt;br&gt;DIMSE&lt;br&gt;DICOMWeb" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" vertex="1" connectable="0" parent="EqcilL_sVjriqWDN_Kjl-59">
           <mxGeometry x="0.3327" y="2" relative="1" as="geometry">
             <mxPoint x="29.000000000000014" y="-2.0700000000000003" as="offset" />
           </mxGeometry>
