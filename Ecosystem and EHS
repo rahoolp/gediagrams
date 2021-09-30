@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T15:36:06.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="GiThElaPo0bQaJCqa69M" version="15.3.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-09-30T15:39:07.957Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="_cp9JUSDQr0bJAGrfNaX" version="15.3.1" type="github" pages="7">
   <diagram id="E4JydRVpK9uiPk6RM6uE" name="Page-1">
     <mxGraphModel dx="2261" dy="727" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -475,8 +475,8 @@
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-25" value="EMR" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/medical-207/32/Artboard_15-128.png;" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
           <mxGeometry x="-192.00000000000006" y="1214.1000000000001" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="W8lhvCjgB6PEYNRYh-e6-26" value="Connectors" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/42_Bit_Connect-128.png" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
-          <mxGeometry x="150.00000000000006" y="1038.6" width="40.3" height="40.3" as="geometry" />
+        <mxCell id="W8lhvCjgB6PEYNRYh-e6-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/42_Bit_Connect-128.png" parent="W8lhvCjgB6PEYNRYh-e6-1" vertex="1">
+          <mxGeometry x="88.77000000000007" y="1038.6" width="40.3" height="40.3" as="geometry" />
         </mxCell>
         <mxCell id="W8lhvCjgB6PEYNRYh-e6-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="W8lhvCjgB6PEYNRYh-e6-1" source="W8lhvCjgB6PEYNRYh-e6-28" target="W8lhvCjgB6PEYNRYh-e6-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -638,7 +638,7 @@
             <mxPoint x="335" y="1095" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W8lhvCjgB6PEYNRYh-e6-68" value="Xtension&lt;br&gt;CDIP&lt;br&gt;FHIR&lt;br&gt;HL7&lt;br&gt;DIMSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" parent="W8lhvCjgB6PEYNRYh-e6-67" vertex="1" connectable="0">
+        <mxCell id="W8lhvCjgB6PEYNRYh-e6-68" value="Xtension&lt;br&gt;FHIR&lt;br&gt;HL7&lt;br&gt;DIMSE&lt;br&gt;DICOMWeb" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=none;" parent="W8lhvCjgB6PEYNRYh-e6-67" vertex="1" connectable="0">
           <mxGeometry x="0.3327" y="2" relative="1" as="geometry">
             <mxPoint x="29.000000000000014" y="-2.0700000000000003" as="offset" />
           </mxGeometry>
