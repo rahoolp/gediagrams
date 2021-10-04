@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T16:17:10.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="2xwO6q2Mnxb__GZZ5xLf" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T03:55:18.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="amCsLPLD5eJgyTxEAeFH" version="15.4.1" type="github">
   <diagram id="V0hJAiqrA1K6axCCMWO3" name="Page-1">
-    <mxGraphModel dx="1463" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="953" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
             <mxPoint x="600.2" y="931" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EqcilL_sVjriqWDN_Kjl-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="EqcilL_sVjriqWDN_Kjl-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EEEEEE;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-200" y="805.79" width="199" height="599" as="geometry" />
         </mxCell>
         <mxCell id="EqcilL_sVjriqWDN_Kjl-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -384,7 +384,7 @@
         <mxCell id="EqcilL_sVjriqWDN_Kjl-111" value="Site &lt;br&gt;Connector&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1061" y="1305.04" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EqcilL_sVjriqWDN_Kjl-112" value="DIMSE" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png" parent="1" vertex="1">
+        <mxCell id="EqcilL_sVjriqWDN_Kjl-112" value="DIMSE/&lt;br&gt;DICOM Web" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png" parent="1" vertex="1">
           <mxGeometry x="1205" y="984.9999999999999" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="EqcilL_sVjriqWDN_Kjl-113" value="FHIR" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png" parent="1" vertex="1">
@@ -460,7 +460,7 @@
         </mxCell>
         <mxCell id="EqcilL_sVjriqWDN_Kjl-131" value="/process/id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;labelBackgroundColor=none;" parent="EqcilL_sVjriqWDN_Kjl-130" vertex="1" connectable="0">
           <mxGeometry x="0.6636" y="-2" relative="1" as="geometry">
-            <mxPoint x="47" y="-17" as="offset" />
+            <mxPoint x="63" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="EqcilL_sVjriqWDN_Kjl-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="EqcilL_sVjriqWDN_Kjl-181" target="EqcilL_sVjriqWDN_Kjl-126" edge="1">
@@ -656,6 +656,16 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="960" y="830" as="targetPoint" />
             <mxPoint x="738.6706000000004" y="837.3559999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5-Irmqc1Y1X--JdWG9h9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classicThin;exitX=0.25;exitY=0;exitDx=0;exitDy=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="1" source="EqcilL_sVjriqWDN_Kjl-141" target="EqcilL_sVjriqWDN_Kjl-167">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1824" y="770" />
+              <mxPoint x="936" y="770" />
+            </Array>
+            <mxPoint x="1859.500000000001" y="834.04" as="sourcePoint" />
+            <mxPoint x="1250" y="923.4499999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
