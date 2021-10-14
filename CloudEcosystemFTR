@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T16:44:21.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="F1v0VDQo5tAN4CJ2tift" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-14T23:06:24.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="NPsifLX5-jG9_GAq70cQ" version="15.5.2" type="github">
   <diagram id="V0hJAiqrA1K6axCCMWO3" name="Page-1">
-    <mxGraphModel dx="2124" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2618" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -409,8 +409,8 @@
         <mxCell id="EqcilL_sVjriqWDN_Kjl-118" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png;direction=west;" parent="1" vertex="1">
           <mxGeometry x="1279" y="1205.3999999999999" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="EqcilL_sVjriqWDN_Kjl-119" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Edison&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Orchestrator&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1262.5000000000002" y="1385.1599999999999" width="165" height="23" as="geometry" />
+        <mxCell id="EqcilL_sVjriqWDN_Kjl-119" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Workflow&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;Orchestrator&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="1255.5000000000002" y="1386.1599999999999" width="180" height="22" as="geometry" />
         </mxCell>
         <mxCell id="EqcilL_sVjriqWDN_Kjl-121" value="" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.link;fillColor=#4CDA64;strokeColor=none;buttonText=;strokeColor2=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;labelBackgroundColor=none;sketch=0;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1630.99" y="1440.54" width="51.28" height="50" as="geometry" />
