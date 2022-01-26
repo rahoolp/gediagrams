@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-26T19:56:57.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="KPsFYIhBUfybJ95XT0wD" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-26T19:58:54.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="eNKUyFd-zeldfXNIvmel" version="16.4.5" type="github">
   <diagram id="Tz2HhyrUHWOXNev4stH1" name="Page-2">
     <mxGraphModel dx="2062" dy="-406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -213,7 +213,7 @@
         <mxCell id="q525oqmR9Ik2567Cov87-61" value="&lt;font style=&quot;font-size: 12px&quot;&gt;EAI Push/pre-processing Scenario&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;labelBackgroundColor=none;fontColor=#333333;" parent="myIwbRaZVC_E4C9uunCO-1" vertex="1">
           <mxGeometry x="499" y="1577" width="206" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="q525oqmR9Ik2567Cov87-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="myIwbRaZVC_E4C9uunCO-1" source="q525oqmR9Ik2567Cov87-76" target="q525oqmR9Ik2567Cov87-78" edge="1">
+        <mxCell id="q525oqmR9Ik2567Cov87-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.431;entryY=1.103;entryDx=0;entryDy=0;entryPerimeter=0;" parent="myIwbRaZVC_E4C9uunCO-1" source="q525oqmR9Ik2567Cov87-76" target="q525oqmR9Ik2567Cov87-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="815.5" y="1620" as="targetPoint" />
           </mxGeometry>
@@ -221,6 +221,11 @@
         <mxCell id="q525oqmR9Ik2567Cov87-81" value="12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="q525oqmR9Ik2567Cov87-80" vertex="1" connectable="0">
           <mxGeometry x="0.2567" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7VJXDeurN7EVdI3svxh-6" value="To CC scenario" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q525oqmR9Ik2567Cov87-80">
+          <mxGeometry x="-0.6477" y="-1" relative="1" as="geometry">
+            <mxPoint x="22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FsGYFDfkbAL3ZRBcVbpy-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="myIwbRaZVC_E4C9uunCO-1" source="hUA2dAzTewmcBaVwPkn6-7" target="FsGYFDfkbAL3ZRBcVbpy-32" edge="1">
@@ -630,6 +635,20 @@
         </mxCell>
         <mxCell id="R7VJXDeurN7EVdI3svxh-3" value="EHL Vol Sharing" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="1633.3000000000002" y="1812.18" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="R7VJXDeurN7EVdI3svxh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="1619.55" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="840" y="1619.25" />
+            </Array>
+            <mxPoint x="1140" y="1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R7VJXDeurN7EVdI3svxh-5" value="Delayed via CC scenario" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="R7VJXDeurN7EVdI3svxh-4">
+          <mxGeometry x="0.1776" y="-3" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
