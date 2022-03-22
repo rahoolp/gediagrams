@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T18:54:08.783Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="3AbJHxMrZQf5deouC4ed" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-22T21:13:50.158Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="o1MeAx_avj8W7uA6t1_P" version="17.1.1" type="github">
   <diagram id="Tz2HhyrUHWOXNev4stH1" name="Page-2">
-    <mxGraphModel dx="2237" dy="-109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="-109" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="myIwbRaZVC_E4C9uunCO-0" />
         <mxCell id="myIwbRaZVC_E4C9uunCO-1" parent="myIwbRaZVC_E4C9uunCO-0" />
@@ -755,7 +755,7 @@
           <mxGeometry x="763.47" y="2539.29" width="163.72" height="230.46" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="-240.53" y="2423.75" width="177" height="500" as="geometry" />
+          <mxGeometry x="-178" y="2423.75" width="177" height="500" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="79.06" y="2423.75" width="240" height="500" as="geometry" />
@@ -764,7 +764,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-10" value="" style="shape=mxgraph.signs.healthcare.mri;html=1;fillColor=#f8cecc;strokeColor=#b85450;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="-187.88000000000002" y="2732.1400000000003" width="70.35" height="64.61" as="geometry" />
+          <mxGeometry x="-125.35000000000002" y="2732.1400000000003" width="70.35" height="64.61" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="myIwbRaZVC_E4C9uunCO-1" source="KFF7oI3oYcerpHkxQwP5-14" target="KFF7oI3oYcerpHkxQwP5-26">
           <mxGeometry relative="1" as="geometry">
@@ -786,7 +786,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-14" value="PACS&amp;nbsp;" style="shape=datastore;whiteSpace=wrap;html=1;fontSize=13;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="-186.71" y="2636.75" width="68" height="62.36" as="geometry" />
+          <mxGeometry x="-124.18" y="2636.75" width="68" height="62.36" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-15" value="/execute" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="523.47" y="2486.75" width="34" height="34" as="geometry" />
@@ -832,7 +832,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-23" value="AET" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="-119.53000000000006" y="2613.75" width="34" height="34" as="geometry" />
+          <mxGeometry x="-57.00000000000006" y="2613.75" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="myIwbRaZVC_E4C9uunCO-1" source="KFF7oI3oYcerpHkxQwP5-26" target="KFF7oI3oYcerpHkxQwP5-117">
           <mxGeometry relative="1" as="geometry">
@@ -884,7 +884,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-35" value="SCM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="-184.53" y="2476.75" width="65" height="54" as="geometry" />
+          <mxGeometry x="-122" y="2476.75" width="65" height="54" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-36" value="EO" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="89.05999999999995" y="2486.75" width="34" height="34" as="geometry" />
@@ -905,7 +905,7 @@
           <mxGeometry x="103.86" y="2903.75" width="197" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-42" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Source Systems&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=13;labelBackgroundColor=none;fontColor=#333333;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="-207.53" y="2896.75" width="111" height="20" as="geometry" />
+          <mxGeometry x="-145" y="2896.75" width="111" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-43" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="768.19" y="2569.29" width="61" height="40" as="geometry" />
@@ -1249,7 +1249,7 @@
           <mxGeometry x="268.1099999999999" y="2832.81" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-131" value="Summary&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;Notification" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png;direction=south;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="-85.5300000000001" y="2832.81" width="34" height="34" as="geometry" />
+          <mxGeometry x="-23.0000000000001" y="2832.81" width="34" height="34" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="myIwbRaZVC_E4C9uunCO-1" source="KFF7oI3oYcerpHkxQwP5-133" target="KFF7oI3oYcerpHkxQwP5-130">
           <mxGeometry relative="1" as="geometry" />
@@ -1369,20 +1369,17 @@
         <mxCell id="KFF7oI3oYcerpHkxQwP5-175" value="SC3: Use Reference Adapter&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="1026.97" y="2341" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KFF7oI3oYcerpHkxQwP5-176" value="Use Reference Adapter&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-176" value="3P1: Use Reference Adapter&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="1781.5" y="2336.75" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KFF7oI3oYcerpHkxQwP5-182" value="Setup EHL based&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;on-prem environment&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="-65.99999999999997" y="2297" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KFF7oI3oYcerpHkxQwP5-183" value="Build Main workflow, add subscription check" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-183" value="EO1: Build Main workflow, add subscription check" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="1475.2" y="2274" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-184" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.aws_s3;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="1956" y="2519.29" width="34" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="KFF7oI3oYcerpHkxQwP5-185" value="Share same as POD as 3P, share data on volume" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="1901.5" y="2280" width="120" height="80" as="geometry" />
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-185" value="3P3: Share same as POD as 3P, share data on volume" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="1901.5" y="2318.75" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-186" value="CC3 Source, push FHIR - both sides" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="774" y="2354" width="120" height="80" as="geometry" />
@@ -1391,13 +1388,10 @@
           <mxGeometry x="1194.47" y="2351" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-189" value="SC4: Accept and Route FHIR to right CDIP and back" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="1192" y="2243" width="120" height="80" as="geometry" />
+          <mxGeometry x="1192" y="2240" width="120" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="KFF7oI3oYcerpHkxQwP5-190" value="Q1: Updated QMS, Q2: Onboarding App guide, Q3: Test Automation, , CI1: Component level CI/CD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="511.02" y="3000" width="1648.98" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="KFF7oI3oYcerpHkxQwP5-191" value="EV1: EHL Sandbox with PACS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="-243" y="3000" width="563" height="40" as="geometry" />
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-190" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="77" y="3000" width="2083" height="36" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-192" value="WO1: refactor, pass priors to CC, REST 2 calls to CC" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="107.39000000000004" y="2349.75" width="120" height="80" as="geometry" />
@@ -1407,6 +1401,36 @@
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-194" value="WO2: list EMR resources" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="236.74000000000004" y="2318.75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-195" value="EO2: Deprecate Subscription Check" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="1344" y="2230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-196" value="3P2: Direct Data exchange&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="1813" y="2256.75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-198" value="DI1: call de-id" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;direction=west;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="582.12" y="2916.75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-199" value="DI2: Re-link" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;direction=west;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="721.72" y="2916.75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-200" value="Setup EHL based&amp;nbsp;&lt;br&gt;on-prem environment&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;direction=west;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="-26" y="3015" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-201" value="Q1: Updated QMS" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;direction=west;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="323.46999999999997" y="3028.75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-202" value="Q2: Onboarding App guide" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;direction=west;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="586.72" y="3026" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-203" value="Q3: Test &lt;br&gt;Automation" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;direction=west;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="752.5500000000001" y="3028.75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-204" value="CI1: Component level CI/CD" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;direction=west;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="926" y="3026" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-206" value="EV2: QA, Stage.Prod setup" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;direction=west;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="1237.47" y="3028.75" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
