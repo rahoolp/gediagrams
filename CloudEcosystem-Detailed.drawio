@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-22T17:50:49.575Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="4PTMhJfsaREuQ1iR0rYe" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-22T18:54:08.783Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="3AbJHxMrZQf5deouC4ed" version="17.1.1" type="github">
   <diagram id="Tz2HhyrUHWOXNev4stH1" name="Page-2">
-    <mxGraphModel dx="2633" dy="-109" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2237" dy="-109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="myIwbRaZVC_E4C9uunCO-0" />
         <mxCell id="myIwbRaZVC_E4C9uunCO-1" parent="myIwbRaZVC_E4C9uunCO-0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="1980" y="2416.75" width="130" height="507" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-170" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="483.47" y="2398.75" width="40" height="550" as="geometry" />
+          <mxGeometry x="481.47" y="2398.75" width="40" height="550" as="geometry" />
         </mxCell>
         <mxCell id="nC5BWbBNHWPFv3tiznkC-10" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;" parent="myIwbRaZVC_E4C9uunCO-1" vertex="1">
           <mxGeometry x="999" y="1515.25" width="991" height="544.75" as="geometry" />
@@ -1360,20 +1360,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KFF7oI3oYcerpHkxQwP5-173" value="Use Reference Adapter&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-173" value="CC1: REST 2 API via Reference Adapter&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="443.47" y="2300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KFF7oI3oYcerpHkxQwP5-174" value="Use HSB" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-174" value="CC2: Use HSB" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="632.5500000000001" y="2380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KFF7oI3oYcerpHkxQwP5-175" value="Use Reference Adapter&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-175" value="SC3: Use Reference Adapter&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="1026.97" y="2341" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-176" value="Use Reference Adapter&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="1781.5" y="2336.75" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="KFF7oI3oYcerpHkxQwP5-181" value="Use 3P API" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
-          <mxGeometry x="236.74000000000004" y="2411" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KFF7oI3oYcerpHkxQwP5-182" value="Setup EHL based&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;on-prem environment&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="-65.99999999999997" y="2297" width="120" height="80" as="geometry" />
@@ -1387,14 +1384,29 @@
         <mxCell id="KFF7oI3oYcerpHkxQwP5-185" value="Share same as POD as 3P, share data on volume" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="1901.5" y="2280" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KFF7oI3oYcerpHkxQwP5-186" value="Source, push FHIR&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-186" value="CC3 Source, push FHIR - both sides" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="774" y="2354" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KFF7oI3oYcerpHkxQwP5-187" value="Replace Mongo with RDS" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-187" value="SC1: Replace Mongo with RDS" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="1194.47" y="2351" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KFF7oI3oYcerpHkxQwP5-189" value="Route FHIR to right CDIP" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-189" value="SC4: Accept and Route FHIR to right CDIP and back" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
           <mxGeometry x="1192" y="2243" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-190" value="Q1: Updated QMS, Q2: Onboarding App guide, Q3: Test Automation, , CI1: Component level CI/CD" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="511.02" y="3000" width="1648.98" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-191" value="EV1: EHL Sandbox with PACS" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="-243" y="3000" width="563" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-192" value="WO1: refactor, pass priors to CC, REST 2 calls to CC" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="107.39000000000004" y="2349.75" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-193" value="SC2: Use HSB" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="1102.97" y="2297" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KFF7oI3oYcerpHkxQwP5-194" value="WO2: list EMR resources" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=13;" vertex="1" parent="myIwbRaZVC_E4C9uunCO-1">
+          <mxGeometry x="236.74000000000004" y="2318.75" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
