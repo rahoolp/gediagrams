@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T22:16:55.639Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="G2zyHBWvw3uypXNwO4yf" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T22:22:29.199Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ueSIUw2s_gKYasg2FV1h" version="20.2.0" type="github">
   <diagram id="JNOyA5OwboDVhIGOmm55" name="Page-1">
     <mxGraphModel dx="2683" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -52,9 +52,6 @@
         </mxCell>
         <mxCell id="h74z9uMU7J8Vw6V2kUzG-15" value="Scan Vulnerabilities" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="543" y="621" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="h74z9uMU7J8Vw6V2kUzG-17" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.design.users;" parent="1" vertex="1">
-          <mxGeometry x="360" width="27.71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h74z9uMU7J8Vw6V2kUzG-18" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.design.users;" parent="1" vertex="1">
           <mxGeometry x="293" y="636" width="27.71" height="30" as="geometry" />
@@ -245,7 +242,7 @@
             <mxPoint y="96.04761904761904" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OzTCXbPcmmQfUEG3tXtx-4" value="Packages" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzTCXbPcmmQfUEG3tXtx-3">
+        <mxCell id="OzTCXbPcmmQfUEG3tXtx-4" value="REST/DIMSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OzTCXbPcmmQfUEG3tXtx-3">
           <mxGeometry x="0.2173" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
