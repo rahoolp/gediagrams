@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T22:22:38.888Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jqe0lzbrhR99b1tuSfph" version="20.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-08-15T22:47:21.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="AhJnZe0N8DxvesYEQZiS" version="20.2.3" type="github" pages="2">
   <diagram id="b0gii-mCR7PXQgc1aH4A" name="Page-1">
-    <mxGraphModel dx="2244" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -582,7 +582,7 @@
         <mxCell id="pr0SAENh3oR7hULgsA6U-70" value="6.2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#9673a6;fillColor=#e1d5e7;" parent="1" vertex="1">
           <mxGeometry x="2009.47" y="2227.04" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="BSHnhp_0zl8yI6I1YkCV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="pr0SAENh3oR7hULgsA6U-71" target="BSHnhp_0zl8yI6I1YkCV-3">
+        <mxCell id="BSHnhp_0zl8yI6I1YkCV-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="pr0SAENh3oR7hULgsA6U-71" target="BSHnhp_0zl8yI6I1YkCV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1929.4700000000003" y="2507" as="targetPoint" />
           </mxGeometry>
@@ -644,43 +644,87 @@
         <mxCell id="pr0SAENh3oR7hULgsA6U-87" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Send Notifications&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;direction=west;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="114.03999999999996" y="2419.86" width="340" height="176" as="geometry" />
         </mxCell>
-        <mxCell id="BSHnhp_0zl8yI6I1YkCV-3" value="/execute" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png" vertex="1" parent="1">
+        <mxCell id="BSHnhp_0zl8yI6I1YkCV-3" value="/execute" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png" parent="1" vertex="1">
           <mxGeometry x="1693.19" y="2480" width="51" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="E3pwPXUhnDfFi78UchYt" name="Page-2">
-    <mxGraphModel dx="1588" dy="202" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2013" dy="503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NzFS_ygMrHY5x7_P3UXc-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="371" y="436" width="229" height="154" as="geometry" />
+        <mxCell id="NzFS_ygMrHY5x7_P3UXc-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="60" y="790" width="723" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="NzFS_ygMrHY5x7_P3UXc-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="NzFS_ygMrHY5x7_P3UXc-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="-254" y="436" width="229" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="NzFS_ygMrHY5x7_P3UXc-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" vertex="1" parent="1">
+        <mxCell id="NzFS_ygMrHY5x7_P3UXc-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" parent="1" vertex="1">
           <mxGeometry x="-219" y="409.00000000000006" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="NzFS_ygMrHY5x7_P3UXc-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" vertex="1" parent="1">
+        <mxCell id="NzFS_ygMrHY5x7_P3UXc-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" parent="1" vertex="1">
           <mxGeometry x="-209" y="419.00000000000006" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="NzFS_ygMrHY5x7_P3UXc-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" vertex="1" parent="1">
+        <mxCell id="NzFS_ygMrHY5x7_P3UXc-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" parent="1" vertex="1">
           <mxGeometry x="-217" y="441.00000000000006" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="NzFS_ygMrHY5x7_P3UXc-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" vertex="1" parent="1">
-          <mxGeometry x="407" y="445.00000000000006" width="128" height="128" as="geometry" />
+        <mxCell id="NzFS_ygMrHY5x7_P3UXc-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-process-1/512/value_chain-128.png" parent="1" vertex="1">
+          <mxGeometry x="116" y="801" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="NzFS_ygMrHY5x7_P3UXc-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="NzFS_ygMrHY5x7_P3UXc-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="6" y="436" width="51" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="NzFS_ygMrHY5x7_P3UXc-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="NzFS_ygMrHY5x7_P3UXc-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="652" y="423" width="51" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="NzFS_ygMrHY5x7_P3UXc-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="NzFS_ygMrHY5x7_P3UXc-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="640" y="435" width="51" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-1" value="User Context" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-89" y="790" width="111" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-2" value="Environment Context" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-89" y="880" width="111" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-3" value="Workflow Engine and State Machine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114.5" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-4" value="Trigger" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-179.5" y="827" width="69" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-5" value="Observability Library" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-8" value="Workflow Dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114.5" y="1061" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YPNvF1lNdpwgPsxRCLCV-9" target="YPNvF1lNdpwgPsxRCLCV-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-16" value="Status, Pause, Release, Delete" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YPNvF1lNdpwgPsxRCLCV-10">
+          <mxGeometry x="-0.3133" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-9" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="154.5" y="1187" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YPNvF1lNdpwgPsxRCLCV-11" target="NzFS_ygMrHY5x7_P3UXc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-11" value="Workflow Developer" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401.5" y="656" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-13" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.code_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="842" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-14" value="Imaging Package" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="429" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YPNvF1lNdpwgPsxRCLCV-15" value="EMR Package" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="980" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
