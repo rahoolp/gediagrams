@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T18:48:12.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="dk5j8LkSuFTzs5tCIMcR" version="20.3.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-29T18:59:18.738Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="7zSn1bYZPJ-VMQKSA_pu" version="20.3.7" type="github" pages="3">
   <diagram id="b0gii-mCR7PXQgc1aH4A" name="Page-1">
     <mxGraphModel dx="2882" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -845,7 +845,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="7Jq_EifPXaG3bPlf0p4O" name="Page-3">
+  <diagram id="7Jq_EifPXaG3bPlf0p4O" name="Release 1.6">
     <mxGraphModel dx="3146" dy="1408" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -860,7 +860,7 @@
           <mxGeometry x="-39" y="786.79" width="800" height="650" as="geometry" />
         </mxCell>
         <mxCell id="b9022FY_ahuvp_RrzAF2-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="926" y="740" width="1235" height="805" as="geometry" />
+          <mxGeometry x="926" y="728" width="1235" height="788.75" as="geometry" />
         </mxCell>
         <mxCell id="b9022FY_ahuvp_RrzAF2-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1343" y="799.75" width="734" height="697" as="geometry" />
@@ -1202,7 +1202,7 @@
           <mxGeometry x="1951.0200000000002" y="1395" width="87" height="23" as="geometry" />
         </mxCell>
         <mxCell id="b9022FY_ahuvp_RrzAF2-106" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloud_2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2094" y="740" width="60" height="52.5" as="geometry" />
+          <mxGeometry x="2101" y="1462" width="60" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="b9022FY_ahuvp_RrzAF2-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -1428,9 +1428,6 @@
         </mxCell>
         <mxCell id="b9022FY_ahuvp_RrzAF2-163" value="SCM" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/web-development-5/500/api-code-window-128.png;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-39" y="879.4999999999999" width="72" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="b9022FY_ahuvp_RrzAF2-168" value="Subnet" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#E8E8E8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#E8E8E8;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="419" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="b9022FY_ahuvp_RrzAF2-173" value="EHL" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1403.75" width="49.26" height="64" as="geometry" />
